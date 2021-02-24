@@ -1,0 +1,20 @@
+<svg width="288" height="300" viewBox="0 0 288 300" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="288" height="300" fill="url(#pattern0)"/>
+<path d="M225.696 63.5967V239.165H199.436V79.4319H62.4226V63.5967H225.696Z" fill="#51565F"/>
+<path opacity="0.5" d="M200.254 78.8691H36.9968V254.437H200.254V78.8691Z" fill="white"/>
+<path d="M84.5766 89.8467H49.335V125.097H84.5766V89.8467Z" fill="#7E5AE2"/>
+<path d="M137.507 89.8467H102.266V125.097H137.507V89.8467Z" fill="#7E5AE2"/>
+<path d="M190.455 89.8467H155.213V125.097H190.455V89.8467Z" fill="#7E5AE2"/>
+<path d="M84.5766 141.102H49.335V176.352H84.5766V141.102Z" fill="#7E5AE2"/>
+<path d="M137.507 141.034H102.266V176.284H137.507V141.034Z" fill="#7E5AE2"/>
+<path d="M190.455 141.102H155.213V176.352H190.455V141.102Z" fill="#7E5AE2"/>
+<path d="M84.5766 190.142H49.335V225.392H84.5766V190.142Z" fill="#7E5AE2"/>
+<path d="M137.507 190.142H102.266V225.392H137.507V190.142Z" fill="#7E5AE2"/>
+<path d="M190.455 190.142H155.213V225.392H190.455V190.142Z" fill="#7E5AE2"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAACxCAYAAABUZybaAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+</defs>
+</svg>

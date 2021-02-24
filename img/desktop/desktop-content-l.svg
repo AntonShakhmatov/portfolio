@@ -1,0 +1,13 @@
+<svg width="208" height="290" viewBox="0 0 208 290" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="176.421" height="290" fill="url(#pattern0)"/>
+<path opacity="0.5" d="M208 186.678L184.595 218.813H71.9209V186.678H208Z" fill="white"/>
+<path d="M104.088 102.205V186.678H71.9209V72.4216L104.088 102.205Z" fill="#E25A77"/>
+<path opacity="0.5" d="M120.554 132.42C120.554 132.42 123.906 111.356 101.363 90.3703C78.8207 69.3845 50.4169 54.1399 50.907 34.5257C50.907 34.5257 53.2789 41.7365 57.7874 43.5392C57.7874 43.5392 47.1042 30.9203 52.1616 12.423C52.1616 12.423 46.4769 36.4459 91.2485 67.6209C105.284 77.3791 133.433 106.359 120.554 132.42Z" fill="white"/>
+<path opacity="0.5" d="M110.831 79.1033C110.812 79.5736 96.6196 63.2513 82.0746 54.4533C67.5297 45.6554 64.511 25.6885 64.511 25.6885C64.511 25.6885 70.9601 43.7743 89.7391 52.5135C96.3255 55.5898 110.831 79.1033 110.831 79.1033Z" fill="white"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFoAAACVCAYAAADYFu1jAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+</defs>
+</svg>

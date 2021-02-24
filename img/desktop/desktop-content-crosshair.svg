@@ -1,0 +1,17 @@
+<svg width="243" height="243" viewBox="0 0 243 243" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g opacity="0.5">
+<rect width="243" height="243" fill="url(#pattern0)"/>
+</g>
+<path d="M120.939 122.414L153.049 154.523L139.549 168.023L107.439 135.914L75.3301 168.023L61.8301 154.523L93.9393 122.414L61.8301 90.3047L75.3301 76.8047L107.439 108.914L139.549 76.8047L153.049 90.3047L120.939 122.414Z" fill="#E25A77"/>
+<path opacity="0.4" d="M107.252 225.284C164.169 225.284 210.309 179.144 210.309 122.227C210.309 65.3101 164.169 19.1699 107.252 19.1699C50.3355 19.1699 4.19531 65.3101 4.19531 122.227C4.19531 179.144 50.3355 225.284 107.252 225.284Z" stroke="white" stroke-width="3" stroke-miterlimit="10"/>
+<path d="M107.252 175.895V225.284" stroke="white" stroke-miterlimit="10"/>
+<path d="M107.252 19.1699V67.9153" stroke="white" stroke-miterlimit="10"/>
+<path d="M155.499 122.227H210.288" stroke="white" stroke-miterlimit="10"/>
+<path d="M4.19531 122.227H59.3792" stroke="white" stroke-miterlimit="10"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAAB1CAYAAABwBK68AAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+</defs>
+</svg>

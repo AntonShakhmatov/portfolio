@@ -1,0 +1,12 @@
+<svg width="351" height="280" viewBox="0 0 351 280" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="351" height="280" fill="url(#pattern0)"/>
+<path d="M269.248 82.0668V135.022C260.429 116.378 248.61 101.889 233.304 102.133C190.806 102.8 202.247 181.556 177.744 180.378C153.24 179.222 156.506 147.222 129.537 146.533C110.787 146.045 103.101 179.067 100.168 199.156H80.2634V82.0668H269.248Z" fill="#E25A77"/>
+<path opacity="0.5" d="M162.104 142.622C170.128 142.622 176.633 136.115 176.633 128.089C176.633 120.062 170.128 113.556 162.104 113.556C154.08 113.556 147.575 120.062 147.575 128.089C147.575 136.115 154.08 142.622 162.104 142.622Z" fill="white"/>
+<path opacity="0.5" d="M98.4578 214.222C98.4578 214.222 102.545 145.822 129.492 146.511C156.462 147.2 153.196 179.2 177.699 180.356C202.203 181.511 190.762 102.778 233.26 102.089C275.757 101.4 291.263 214.2 291.263 214.2H98.4578V214.222Z" fill="white"/>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJ8AAAB/CAYAAADxXxBiAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+</defs>
+</svg>

@@ -1,0 +1,28 @@
+<svg width="238" height="290" viewBox="0 0 238 290" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g clip-path="url(#clip0)">
+<rect x="43.7" y="46.9833" width="150.522" height="243.017" fill="url(#pattern0)"/>
+<rect y="98.8268" width="148.904" height="191.173" fill="url(#pattern1)"/>
+<rect x="89.0186" width="148.904" height="290" fill="url(#pattern2)"/>
+<path d="M134.548 114.688V216.139H103.602V114.688C103.602 110.168 107.276 106.49 111.791 106.49H126.358C130.857 106.49 134.548 110.168 134.548 114.688Z" fill="#E25ABC"/>
+<path d="M90.2487 165.883V216.139H59.2864V165.883C59.2864 161.379 62.9766 157.685 67.4923 157.685H82.059C86.5584 157.685 90.2487 161.379 90.2487 165.883Z" fill="#E25A77"/>
+<path d="M178.847 67.5749V216.139H147.9V67.5749C147.9 63.0548 151.574 59.361 156.09 59.361H170.657C175.156 59.361 178.847 63.0548 178.847 67.5749Z" fill="#7E5AE2"/>
+<path opacity="0.5" d="M188.671 230.995H49.462C45.4642 230.995 42.1948 227.723 42.1948 223.721C42.1948 219.72 45.4642 216.447 49.462 216.447H188.671C192.669 216.447 195.938 219.72 195.938 223.721C195.954 227.707 192.685 230.995 188.671 230.995Z" fill="white"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0"/>
+</pattern>
+<pattern id="pattern1" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image1"/>
+</pattern>
+<pattern id="pattern2" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image2"/>
+</pattern>
+<clipPath id="clip0">
+<rect width="237.923" height="290" fill="white"/>
+</clipPath>
+<image id="image0" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAACXCAYAAACcNewSAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+<image id="image1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAB3CAYAAABhRkyTAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+<image id="image2" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAC0CAYAAAD2OiCJAAAACXBIWXMAAAsSAAALEgHS3X78AAAA"/>
+</defs>
+</svg>
